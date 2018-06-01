@@ -1,2 +1,3 @@
-# travel
-vue-travel
+# Quasar App
+
+> WIP
